@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dadaguai
+- 👋 Hi, I’m dadaguai
 - 👀 I’m interested in HTML
 - 🌱 I’m currently learning HTML
 - 💞️ I hope to study on GitHub
